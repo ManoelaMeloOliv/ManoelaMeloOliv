@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou a Manoela Melo de Oliveira</h1>
+<h1 align="center">Olá! 👋 Eu sou a Manoela Melo </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+em+formação;Apaixonada+por+tecnologia&center=true&width=380&height=45&color=9400D3&font=Fira+Code" alt="Typing SVG" />
@@ -56,16 +56,6 @@
   <!-- Organização -->
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30px" title="Trello"/>
 </p>
-
----
-
-### 🌱 Projetos em Destaque
-
-- 🎧 LEDs com música usando Arduino e C  
-- 🌐 Site jurídico com PHP, HTML, CSS e MySQL  
-- 💡 Projetos em Python (Fundação Bradesco, Cisco)  
-- 📊 Atividades com SQL e modelagem de banco de dados  
-- 🔧 Exercícios práticos com Git/GitHub e Java puro
 
 ---
 
