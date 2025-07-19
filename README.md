@@ -1,5 +1,14 @@
-<h1 align="center">Olá! 👋 Eu sou a Manoela Melo </h1>
 
+
+<h1 align="center">Olá, eu sou a Manoela 👋</h1>
+
+<p align="center">
+  <strong>💻 Analista de Sistemas em Formação</strong><br>
+  📍 Técnica em Desenvolvimento de Sistemas pela <strong>ETEC</strong><br>
+  🎓 Estudante de <strong>ADS no IFSC</strong>
+</p>
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+em+formação;Apaixonada+por+tecnologia&center=true&width=380&height=45&color=9400D3&font=Fira+Code" alt="Typing SVG" />
 </p>
@@ -14,46 +23,54 @@
 
 ---
 
-### 👩‍💻 Sobre mim:
+### 🚀 Um Pouco Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC  
-- 📚 Sempre buscando aprender mais com cursos, projetos e eventos
-- 🛠️ Em busca de uma oportunidade de **estágio** na área de TI
+🌍 **Localização:** Santa Catarina - Brasil  
+📚 **Formação:** ETEC + IFSC  
+💻 **Foco atual:** Desenvolvimento Web com **Java**, **SQL**, **HTML**, **CSS** e **JavaScript**  
+🛠️ **Aprendendo:** Python 🐍 · TypeScript 🟦 · Banco de Dados Relacional 🗂️  
+🧩 **Ferramentas:** Git · GitHub · VSCode · NetBeans · Figma · PostgreSQL  
+🎯 **Objetivo:** Aprender cada dia mais e conquistar minha primeira oportunidade de estágio  
+💬 **Gosto de tecnologia, desafios e de transformar ideias em código!**
+
 
 ---
 
-### 🚀Estdando as seguintes Tecnologias e Ferramentas
+### 🚀Estudando as seguintes Tecnologias e Ferramentas
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
 
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VS Code"/>
+  <!-- 💻 Linguagens -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="30px" title="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30px" title="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px" title="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px" title="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px" title="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30px" title="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30px" title="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=sqlite&logoColor=white" height="30px" title="SQL"/>
+
+  <!-- 🧠 IDEs -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30px" title="VS Code"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30px" title="NetBeans"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px" title="Eclipse"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="40px" title="PyCharm"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="40px" title="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30px" title="Eclipse"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="30px" title="PyCharm"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30px" title="IntelliJ IDEA"/>
 
-  <!-- Versionamento -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
+  <!-- 🔧 Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px" title="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" title="GitHub"/>
 
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
-  
-  <!-- Organização -->
+  <!-- 🎨 Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30px" title="Figma"/>
+
+  <!-- 📋 Organização -->
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30px" title="Trello"/>
+
 </p>
 
----
+
 
 ### 📫 Contato
 
