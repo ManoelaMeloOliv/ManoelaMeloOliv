@@ -38,6 +38,7 @@
 
 ### 🚀Estudando as seguintes Tecnologias e Ferramentas
 
+
 <p align="center">
 
   <!-- 💻 Linguagens -->
@@ -72,6 +73,16 @@
 
 
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelaMeloOliv/ManoelaMeloOliv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelaMeloOliv/ManoelaMeloOliv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ManoelaMeloOliv/ManoelaMeloOliv/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 📫 Contato
 
 <p align="center">
@@ -84,13 +95,6 @@
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelaMeloOliv/ManoelaMeloOliv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelaMeloOliv/ManoelaMeloOliv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ManoelaMeloOliv/ManoelaMeloOliv/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="center">
   💻 Feito com ❤️ por <strong>Manoela Melo de Oliveira</strong>
 </p>
