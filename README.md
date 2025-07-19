@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀Estdando as seguintes Tecnologias e Ferramentas
 
 <p align="center">
   <!-- Linguagens -->
@@ -48,11 +48,7 @@
 
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
-
+  
   <!-- Organização -->
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30px" title="Trello"/>
 </p>
